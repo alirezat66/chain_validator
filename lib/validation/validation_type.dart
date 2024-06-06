@@ -1,0 +1,4 @@
+enum ValidationType {
+  email,
+  mandatory,
+}
